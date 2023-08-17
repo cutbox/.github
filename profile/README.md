@@ -1,6 +1,6 @@
+![](https://github.com/cutbox/CutBox/raw/master/CutBox/CutBox/GraphicAssets/cutbox-release-icon.png)
+
 ## Where CutBox is made.
-
-
 
 <!-- 
 
