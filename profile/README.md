@@ -1,5 +1,7 @@
 ![](https://github.com/cutbox/CutBox/raw/master/CutBox/CutBox/GraphicAssets/cutbox-release-icon.png)
 
+![](https://github.com/cutbox/cutbox.github.io/raw/master/images/cutbox-logo-text.png)
+
 ## Where CutBox is made...
 
 <!-- 
