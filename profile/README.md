@@ -1,9 +1,6 @@
-![](https://github.com/cutbox/CutBox/raw/master/CutBox/CutBox/GraphicAssets/cutbox-release-icon.png)
+![](https://github.com/cutbox/CutBox/raw/master/CutBox/CutBox/GraphicAssets/cutbox-release-icon.png) ![](https://github.com/cutbox/cutbox.github.io/raw/master/images/cutbox-logo-text.png)
 
-![](https://github.com/cutbox/cutbox.github.io/raw/master/images/cutbox-logo-text.png)
-
-## Where CutBox is made...
-
+_macOS pasteboard made awesome since 2018_
 <!-- 
 
 **Here are some ideas to get you started:**
